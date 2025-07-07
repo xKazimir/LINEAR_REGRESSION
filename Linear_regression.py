@@ -73,6 +73,8 @@ def main():
     # load data
     #df = pd.read_csv("linear_regression_dataset.csv")
     df = pd.read_csv("linear_regression_dataset_2.csv")
+    #df = pd.read_csv("linear_regression_dataset_3.csv")
+
 
     #show mean and data
     mean_y = df["y"].mean()
